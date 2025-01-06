@@ -1,5 +1,5 @@
 ---
-title: Theory and Applications of Algorithms with Predictions
+title: "TAAP25: Theory and Applications of Algorithms with Predictions"
 ---
 
 
