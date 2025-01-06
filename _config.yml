@@ -7,12 +7,3 @@ github:
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
-
-steps:
-  - title: Call for Papers
-    description: Instruction for submitting papers
-    body: cfp/index.md
-    link: 'https://taap25.github.io/cfp'
-  - title: Program
-    description: Workshop program
-    link: 'https://taap25.github.io/program'
