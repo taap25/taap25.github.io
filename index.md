@@ -29,3 +29,7 @@ theoretical analysis?
 * Lene Monrad Favrholdt, University of Southern Denmark
 * Nicole Megow University of Bremen, Germany
 
+# Dates:
+* submission deadline
+* notification
+* Workshop: July 7th, 2025
