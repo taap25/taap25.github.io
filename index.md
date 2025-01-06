@@ -15,6 +15,12 @@ theoretical analysis?
 * When predictions are associated with costs, how does an algorithm decide on the ideal times to query a prediction?
 * Which tools from ML can be applied in the analysis of algorithms with predictions?
 
+# Invited speakers:
+
+* Sami Davies, Simons Institue for the Theory of Computing and Department of Electrical Engineering and Computer Sciences, UC Berkeley
+* Sebastian Forster, Department of Computer Science, University of Salzburg
+* Adam Polak, Department of Computing Sciences, Bocconi University
+
 # Program Committee:
 
 * Spyros Angelopoulos, CNRS and International Laboratory on Learning Systems, Montreal, Canada
@@ -23,8 +29,3 @@ theoretical analysis?
 * Lene Monrad Favrholdt, University of Southern Denmark
 * Nicole Megow University of Bremen, Germany
 
-# Invited speakers:
-
-* Sami Davies, Simons Institue for the Theory of Computing and Department of Electrical Engineering and Computer Sciences, UC Berkeley
-* Sebastian Forster, Department of Computer Science, University of Salzburg
-* Adam Polak, Department of Computing Sciences, Bocconi University
