@@ -7,3 +7,9 @@ github:
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
+
+steps:
+  - title: CFP
+    description: Generate a GitHub Pages site with the automatic page generator.
+    body: cfp/index.md
+    link: 'https://taap25.github.io/cfp'
