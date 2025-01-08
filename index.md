@@ -18,10 +18,10 @@ theoretical analysis?
 # Workshop Organizers:
 
 * Spyros Angelopoulos, CNRS and International Laboratory on Learning Systems, Montreal, Canada
-* Antonios Antoniadis University of Twente, The Netherlands
-* Marek Eliáš. Bocconi University, Milan, Italy
+* Antonios Antoniadis, University of Twente, The Netherlands
+* Marek Eliáš, Bocconi University, Milan, Italy
 * Lene Monrad Favrholdt, University of Southern Denmark
-* Nicole Megow University of Bremen, Germany
+* Nicole Megow, University of Bremen, Germany
 
 
 # Invited speakers:
