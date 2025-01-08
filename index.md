@@ -2,7 +2,7 @@
 title: "TAAP25: Theory and Applications of Algorithms with Predictions"
 ---
 
-
+# Workshop Scope
 
 Machine Learning has revolutionized the world, and has already made a profound impact on our perception of algorithms. More specifically, in recent years, the new 
 area of _Algorithms with Predictions_ has emerged at the intersection of Theoretical Computer Science  and ML, which studies the interplay between ML and the design/analysis of algorithms with strict, provable performance guarantees. Its aim is to address fundamental questions related to modeling, performance evaluation and theoretical analysis, from the point of view of both possibility and impossibility 
@@ -15,13 +15,7 @@ theoretical analysis?
 * When predictions are associated with costs, how does an algorithm decide on the ideal times to query a prediction?
 * Which tools from ML can be applied in the analysis of algorithms with predictions?
 
-# Invited speakers:
-
-* Sami Davies, Simons Institue for the Theory of Computing and Department of Electrical Engineering and Computer Sciences, UC Berkeley
-* Sebastian Forster, Department of Computer Science, University of Salzburg
-* Adam Polak, Department of Computing Sciences, Bocconi University
-
-# Program Committee:
+# Workshop Organizers:
 
 * Spyros Angelopoulos, CNRS and International Laboratory on Learning Systems, Montreal, Canada
 * Antonios Antoniadis University of Twente, The Netherlands
@@ -29,7 +23,15 @@ theoretical analysis?
 * Lene Monrad Favrholdt, University of Southern Denmark
 * Nicole Megow University of Bremen, Germany
 
-# Dates:
+
+# Invited speakers:
+
+* Sami Davies, Simons Institue for the Theory of Computing and Department of Electrical Engineering and Computer Sciences, UC Berkeley
+* Sebastian Forster, Department of Computer Science, University of Salzburg
+* Adam Polak, Department of Computing Sciences, Bocconi University
+
+
+# Important Dates:
 * submission deadline
 * notification
 * Workshop: July 7th, 2025
