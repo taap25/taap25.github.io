@@ -32,6 +32,6 @@ theoretical analysis?
 
 
 # Important Dates:
-* submission deadline
-* notification
+* submission deadline: May 2nd, 2025
+* notification: May 9th, 2025
 * Workshop: July 7th, 2025
