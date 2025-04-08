@@ -13,6 +13,7 @@ The Committee will select abstracts for oral presentation at the workshop. At le
 person in order to present their work. No formal proceedings will be published.
 
 Page limit: 2 pages (excluding references)
+
 Page format: A4
 
 EasyChair Submission Link:
