@@ -28,7 +28,6 @@ theoretical analysis?
 
 * Sami Davies, Simons Institue for the Theory of Computing and Department of Electrical Engineering and Computer Sciences, UC Berkeley
 * Sebastian Forster, Department of Computer Science, University of Salzburg
-* Adam Polak, Department of Computing Sciences, Bocconi University
 
 
 # Important Dates:
