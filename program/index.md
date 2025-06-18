@@ -8,7 +8,7 @@ title: "TAAP25: Program"
 08:30 -- 09:00: _Registration_
 
 09:00 -- 09:10 _Welcome_  
-09:10 -- 09:50 **Sami Davies**: Fair Online Correlation Clustering  
+09:10 -- 09:50 **Sami Davies**: Fair Online Correlation Clustering (invited talk)  
 09:50 -- 10:10 **Golnoosh Shahkarami**: Randomized Strategic Facility Location with Predictions
 
 10:30 -- 11:00 _Coffee break_
@@ -19,7 +19,7 @@ title: "TAAP25: Program"
 
 12:00 -- 14:00 _Break_
 
-14:00 -- 14:40 **Sebastian Forster**: TBA  
+14:00 -- 14:40 **Sebastian Forster**: TBA (invited talk)  
 14:40 -- 15:00 **Joan Boyar**: Distributed Graph Algorithms with Predictions  
 
 15:30 -- 16:00 _Coffee break_
