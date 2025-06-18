@@ -20,7 +20,7 @@ title: "TAAP25: Program"
 09:10 -- 09:50 **Sami Davies**: Fair Online Correlation Clustering  
 09:50 -- 10:10 **Golnoosh Shahkarami**: Randomized Strategic Facility Location with Predictions
 
-10:10 -- 11:00 _Coffee break_
+10:30 -- 11:00 _Coffee break_
 
 11:00 -- 11:20 **Shikha Singh**: Designing Learned Data Structures via Prediction Decomposition  
 11:20 -- 11:40 **Magnus Berg**: On the Complexity of Online Problems with Predictions  
@@ -31,7 +31,7 @@ title: "TAAP25: Program"
 14:00 -- 14:40 **Sebastian Forster**: TBA  
 14:40 -- 15:00 **Joan Boyar**: Distributed Graph Algorithms with Predictions  
 
-15:00 -- 16:00 **Coffee break**
+15:30 -- 16:00 _Coffee break_
 
 16:00 -- 16:20 **Kim Thang Nguyen**: Online Covering with Multiple Experts  
 16:20 -- 16:40 **Kim Thang Nguyen**: Online Primal-Dual Algorithm with Predictions for Non-Linear Packing and Covering Problems  
