@@ -11,7 +11,7 @@ title: "TAAP25: Program"
 09:10 -- 09:50 **Sami Davies**: Fair Online Correlation Clustering (invited talk)  
 09:50 -- 10:10 **Golnoosh Shahkarami**: Randomized Strategic Facility Location with Predictions
 
-10:10 -- 10:30 _Discussions_
+10:10 -- 10:30 _Discussions_  
 10:30 -- 11:00 _Coffee break_
 
 11:00 -- 11:20 **Shikha Singh**: Designing Learned Data Structures via Prediction Decomposition  
@@ -23,7 +23,7 @@ title: "TAAP25: Program"
 14:00 -- 14:40 **Sebastian Forster**: TBA (invited talk)  
 14:40 -- 15:00 **Joan Boyar**: Distributed Graph Algorithms with Predictions  
 
-15:00 -- 15:30 _Discussions_
+15:00 -- 15:30 _Discussions_  
 15:30 -- 16:00 _Coffee break_
 
 16:00 -- 16:20 **Kim Thang Nguyen**: Online Covering with Multiple Experts  
