@@ -28,7 +28,7 @@ title: "TAAP25: Program"
 
 16:00 -- 16:20 **Kim Thang Nguyen**: Online Covering with Multiple Experts  
 16:20 -- 16:40 **Kim Thang Nguyen**: Online Primal-Dual Algorithm with Predictions for Non-Linear Packing and Covering Problems  
-16:40 -- 17:30 _Open problem session_
+16:40 -- 17:30 _Open problem session_: Please contact the organizers during the workshop, if you would like to present an open problem.
 
 # List of invited talks:
 
